@@ -1,0 +1,3 @@
+# Folder content should be ignored, just keep the folder and put GGPONC files here 
+*
+!.gitignore
