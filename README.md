@@ -8,4 +8,4 @@
 
 ## Notebooks
 
-- [WeakSupervision.ipynb](WeakSupervision) walks you through the process of creating a gene tagger using the [skweak](https://github.com/NorskRegnesentral/skweak) framework
+- [WeakSupervision.ipynb](WeakSupervision.ipynb) walks you through the process of creating a gene tagger using the [skweak](https://github.com/NorskRegnesentral/skweak) framework
