@@ -3,3 +3,4 @@ pandas==1.4.3
 numpy==1.23.2
 sklearn==1.1.2
 tqdm==4.63.0
+nltk==3.7
